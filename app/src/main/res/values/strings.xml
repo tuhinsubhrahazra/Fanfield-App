@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fanfield</string>
+    <string name="API_URL">https://fanfield-api.onrender.com</string>
+</resources>
